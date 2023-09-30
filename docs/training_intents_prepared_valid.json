@@ -1,0 +1,274 @@
+[
+  {
+    "prompt": "This interaction [[Currently, the weather in New York City is mostly cloudy and the temperature is around 55 degrees Fahrenheit.]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Yeah, try breaking your study sessions into smaller chunks with breaks in between. And don't forget to take care of yourself and get enough sleep!]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[I'm feeling kinda bummed out lately. Any advice?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Sorry to hear that. Maybe try doing something that makes you happy, like hanging out with friends or doing a fun activity.]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[What's your go-to spot for a cup of joe?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[How about trying a fitness class like yoga or kickboxing? Or maybe even going for a jog outside?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Hey there! What's up?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Not much, just hanging out in the digital world. How can I help you?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Yo, what's good?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Hey bot, what's the haps?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Not much, just waiting for someone to talk to. What can I help you with?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Hey buddy, what's shaking?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Hey bot, what's the stich?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[I need some help with my marketing strategy. Can you offer any advice?]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Absolutely. Let me show you some successful campaigns we've executed in the past.]] is aiming at \n\n###\n\n",
+    "completion": " Conversation ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help us create a marketing campaign for our new product launch?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[We need to increase sales for our products. Can you come up with a campaign that will help us achieve that?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[We are interested in targeting a specific demographic. Can you generate a campaign that will resonate with that audience?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[We need to increase our online sales. Can you create a digital marketing campaign that will help us achieve that?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[We want to increase customer loyalty. Can you create a campaign that will incentivize customers to continue purchasing our products?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[We're looking to generate more leads for our sales team. Can you create a campaign that will attract potential customers?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[We're launching a new subscription service and want to generate sign-ups. Can you create a campaign that will incentivize customers to subscribe?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Sup, we're trying to create some buzz around our products. Can you create a campaign that will make us look fly?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[We want to be the talk of the town. Make us a campaign that'll get people talking.]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a campaign that'll make my products stand out?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[I need a hand in creating a marketing campaign, can you assist me?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[I am looking to launch a marketing campaign, can you design it for me?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that resonates with my target audience?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that aligns with my brand?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[How can I create a marketing campaign that reflects my brand values?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that showcases my unique selling proposition?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that helps me reach international customers?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that increases my customer satisfaction ratings?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that generates reviews/testimonials?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that showcases my brand's unique personality?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that resonates with my target's pain points?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that helps me expand to a new market?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that increases my PPC conversion rate?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that targets baby boomers?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that generates buzz without consuming much budget?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that generates sales using holiday-themed promotions?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that predicts future trends?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that stands out on social media channels?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that uses visuals to attract customers?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that leverages the power of chatbots?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that highlights my brand's expertise?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that drives customer loyalty using personalized rewards?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that uses animation to attract customers?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that leverages the power of chat marketing?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that aligns with my brand's personality?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that uses human connection to attract customers?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that targets customers based on their interests?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that leverages the power of chatbot integrations?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that aligns with my brand's visual identity?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that targets customers based on their browser history?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that analyzes customer personalities?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that uses personalized CTAs?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that analyzes customer sentiment?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you help me create a marketing campaign that uses personalized product offers?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that leverages customer data to drive behavioral changes?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that aligns with my brand's aspirations?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you guide me in creating a marketing campaign that analyzes the customer's intent and behavior in real-time?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that aligns with my brand's action-oriented communication?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that aligns with my brand's personality, messaging, and visuals?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that targets customers based on their social media activity, past purchases/sales & socio-economic factors?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that aligns with my brand's visual branding and typography?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you assist me in creating a marketing campaign that aligns with my brand's tone/vibe and other customer touchpoints?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  },
+  {
+    "prompt": "This interaction [[Can you create a marketing campaign that targets customers based on their social media activity, past purchases, and insights derived from social listening?]] is aiming at \n\n###\n\n",
+    "completion": " Campaigns ###"
+  }
+]
