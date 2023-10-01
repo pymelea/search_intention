@@ -1,9 +1,6 @@
 ,Keywords,Intencion,Etapa
-0, del embudo,,
+0,,,
 1,,,
-2,How can I create a marketing campaign , Consulta , Descubrimiento
-3,that reflects my brand values? , Consulta , Consideración 
-4,create a marketing campaign , Conversacional , Descubrimiento
-5,that leverages the power of chat marketing , Conversacional , Consideración
-6,Can you help me create a marketing campaign , Consulta , Descubrimiento
-7,that leverages the power of chatbots? , Consulta , Consideración
+2,keyword1 , Conversacional , Descubrimiento 
+3,keyword2 , Consulta , Consideración
+4,keyword3 , Generacional , Conversión
