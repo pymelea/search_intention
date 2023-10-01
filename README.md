@@ -41,7 +41,7 @@ ___
   ```
 or the command to install all the tools with poetry install, the auto executes everything alone
 ```shell
-make install
+  make install
 ```
   
 ___
