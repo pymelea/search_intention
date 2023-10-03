@@ -1,6 +1,2 @@
-,Keywords,Intencion,Etapa
-0,,,
-1,,,
-2,keyword1 , Conversacional , Descubrimiento 
-3,keyword2 , Consulta , Consideración
-4,keyword3 , Generacional , Conversión
+query,Intention
+We need to increase sales for our products.,['Consulta']
