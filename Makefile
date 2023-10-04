@@ -13,7 +13,7 @@ lint:
 
 test:
 	@pytest -v tests
-	@unittest 
+	@python -m unittest tests/test_search_intentions_unittest.py			
 
 sec:
 	@pip-audits
