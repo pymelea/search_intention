@@ -39,9 +39,9 @@ ___
   ```shell
   python search_intent_to_csv.py
   ```
-or the command to install all the tools with poetry install, the auto executes everything alone
+- Or the command to install all the tools with poetry install, the auto  executes everything alone.
   ```shell
-    make install
+  make install
   ```
   
 ___
