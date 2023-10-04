@@ -31,7 +31,7 @@ ___
   cp .env.local .env
   ```
 - Place a ChatGPT Openai key in the .env file for the script to function properly.
-- Create a virtual environment and run the command.
+- Create a virtual environment and run the command and install all the dependencies
   ```shell
   pip install -r requirements.txt
   ```
@@ -40,8 +40,8 @@ ___
   python search_intent_to_csv.py
   ```
 or the command to install all the tools with poetry install, the auto executes everything alone
-```shell
-  make install
-```
+  ```shell
+    make install
+  ```
   
 ___
